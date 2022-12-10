@@ -1,0 +1,5 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Disallow:
+
+Sitemap: https://nikomatt69.github.io/SeaLIghtSwap-Bridge/sitemap.xml
